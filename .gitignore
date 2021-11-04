@@ -1,5 +1,5 @@
 # todoapp
-db.txt
+db.*
 
 # rust build
 target/
